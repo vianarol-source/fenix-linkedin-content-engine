@@ -19,7 +19,7 @@ O Fenix LinkedIn Content Engine permite criar posts estratégicos para o LinkedI
 
 1. Acesse [vercel.com](https://vercel.com) e faça login com sua conta GitHub
 2. Clique em **"Add New Project"**
-3. Importe o repositório `vianarol-source/TDS_CAPANEMA`
+3. Importe o repositório `vianarol-source/fenix-linkedin-content-engine`
 4. Em **"Root Directory"**, selecione `fenix-linkedin-engine`
 5. Em **"Environment Variables"**, adicione:
    - `ANTHROPIC_API_KEY` = sua chave da API Anthropic
